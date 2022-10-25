@@ -1,6 +1,5 @@
 # IDE
 .vscode/*
-!.vscode/extensions.json
 
 # env
 .venv
